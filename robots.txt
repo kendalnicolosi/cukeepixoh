@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eexogeipha.vigilock.com/sitemap.xml
